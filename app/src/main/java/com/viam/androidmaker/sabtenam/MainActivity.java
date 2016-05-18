@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         sb.append(getString(R.string.ghavanin));
 
         //added line 1
+        //added line 2
         tv.setText(sb.toString());
 
 
