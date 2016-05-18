@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         sb.append(getString(R.string.ghavanin));
         sb.append(getString(R.string.ghavanin));
 
-        //added line
+        //added line 1
         tv.setText(sb.toString());
 
 
